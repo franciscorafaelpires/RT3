@@ -1,0 +1,14 @@
+{
+  "name": "teste-calculadora",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "tsc && node dist/testeCalculadora.js"
+  },
+  "dependencies": {
+    "calculadora": "github:franciscorafaelpires/calculadora"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
