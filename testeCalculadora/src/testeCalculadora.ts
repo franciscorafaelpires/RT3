@@ -6,7 +6,7 @@ const subtrator = new Subtrator();
 const divisor = new Divisor();
 const multiplicador = new Multiplicador();
 
-console.log("Soma: ", somador.calcular(10, 5));         // 15
-console.log("Subtração: ", subtrator.calcular(10, 5));  // 5
-console.log("Divisão: ", divisor.calcular(10, 2));      // 5
-console.log("Multiplicação: ", multiplicador.calcular(10, 3)); // 30
+console.log("Soma: ", somador.calcular(10, 5));
+console.log("Subtração: ", subtrator.calcular(10, 5));
+console.log("Divisão: ", divisor.calcular(10, 2));
+console.log("Multiplicação: ", multiplicador.calcular(10, 3));
